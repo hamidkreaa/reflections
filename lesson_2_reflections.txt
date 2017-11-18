@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	to prepare repository log files.
+	
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	middle space to make us sure of our commits
